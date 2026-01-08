@@ -6,10 +6,10 @@ Welcome to the **Project Introduction Notes** repository. This project contains 
 
 This repository is organized by department/organization. Each directory contains a `study-notes.md` file with deep-dive technical insights, project portfolios, and digital ecosystem overviews.
 
-| Project / Organization | URL | Repository Path | Core Focus |
+| Project / Organization | URL | Read Notes ⭐️ | Core Focus |
 | :--- | :--- | :--- | :--- |
-| **National e-Governance Division (NeGD)** | https://negd.gov.in/ | [`NeGD/study-notes.md`](./NeGD/study-notes.md) | Digital India, DigiLocker, UMANG, API Setu |
-| **Department of Sports** | https://yas.gov.in/en | [`Department of Sports/study-notes.md`](./Department%20of%20Sports/study-notes.md) | Khelo India, Fit India, DBT-YAS, Sports Infrastructure |
+| **National e-Governance Division (NeGD)** | https://negd.gov.in/ | [![Click to See Notes](https://img.shields.io/badge/Open_Notes-blue?style=for-the-badge)](./NeGD/study-notes.md) | Digital India, DigiLocker, UMANG, API Setu |
+| **Department of Sports** | https://yas.gov.in/en | [![Click to See Notes](https://img.shields.io/badge/Open_Notes-blue?style=for-the-badge)](./Department%20of%20Sports/study-notes.md) | Khelo India, Fit India, DBT-YAS, Sports Infrastructure |
 
 ---
 
