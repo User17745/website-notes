@@ -1,3 +1,7 @@
+---
+layout: default
+title: Department of Sports Study Notes
+---
 # Department of Sports - Project Introduction Notes
 
 This document provides a technical and operational overview of the Department of Sports (Ministry of Youth Affairs and Sports) to assist the incoming technical Project Manager.

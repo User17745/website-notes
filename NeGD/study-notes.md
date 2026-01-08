@@ -1,3 +1,7 @@
+---
+layout: default
+title: NeGD Study Notes
+---
 # National e-Governance Division (NeGD) - Project Introduction Notes
 
 This document provides a technical and operational overview of the National e-Governance Division (NeGD) to assist the incoming technical Project Manager.
