@@ -1,0 +1,223 @@
+Analytics and Tracking
+Global Trends
+Matomo
+Matomo
+Matomo Usage Statistics · Download List of All Websites using Matomo
+Matomo is an open source web analytics software. It gives interesting reports on your website visitors, your popular pages, the search engines keywords they used, the language they speak and so much more. Previously known as Piwik Web Analytics.
+
+Audience Measurement Conversion Optimization Site Optimization
+Widgets
+Global Trends
+Font Awesome
+Font Awesome
+Font Awesome Usage Statistics · Download List of All Websites using Font Awesome
+Iconic font and CSS toolkit.
+
+Fonts
+Mobile
+Global Trends
+IPhone / Mobile Compatible
+IPhone / Mobile Compatible
+IPhone / Mobile Compatible Usage Statistics · Download List of All Websites using IPhone / Mobile Compatible
+The website contains code that allows the page to support IPhone / Mobile Content.
+
+Mobile Non Scaleable Content
+Mobile Non Scaleable Content
+Mobile Non Scaleable Content Usage Statistics · Download List of All Websites using Mobile Non Scaleable Content
+This content is formatted for mobile devices, it does not allow the content to be scaled.
+
+Viewport Meta
+Viewport Meta
+Viewport Meta Usage Statistics · Download List of All Websites using Viewport Meta
+This page uses the viewport meta tag which means the content may be optimized for mobile content.
+
+Mobile Optimized
+Mobile Optimized
+Mobile Optimized Usage Statistics · Download List of All Websites using Mobile Optimized
+Microsoft invented the MobileOptimized META tag to control the layout width for mobile markup rendered in Internet Explorer Mobile.
+
+Content Delivery Network
+Global Trends
+jQuery CDN
+jQuery CDN
+jQuery CDN Usage Statistics · Download List of All Websites using jQuery CDN
+The jQuery Amazon S3 Content Delivery Network
+
+Audio / Video Media
+Global Trends
+YouTube
+YouTube
+YouTube Usage Statistics · Download List of All Websites using YouTube
+Embedded videos from YouTube.
+
+Live Stream / Webcast Online Video Platform Social Video Platform
+Content Management System
+Global Trends
+Drupal
+Drupal
+Drupal Usage Statistics · Download List of All Websites using Drupal
+An engine suitable to setup or build a content driven or community driven website. Modular design allows flexibility in design.
+
+Open Source
+JavaScript Libraries and Functions
+Global Trends
+bxSlider
+bxSlider
+bxSlider Usage Statistics · Download List of All Websites using bxSlider
+Response jQuery Content Slider
+
+jQuery Plugin Slider UI
+Lightbox
+Lightbox
+Lightbox Usage Statistics · Download List of All Websites using Lightbox
+Lightbox JS is a simple, unobtrusive script used to overlay images on the current page. It's a snap to setup and works on all modern browsers.
+
+jQuery
+jQuery
+jQuery Usage Statistics · Download List of All Websites using jQuery
+JQuery is a fast, concise, JavaScript Library that simplifies how you traverse HTML documents, handle events, perform animations, and add Ajax interactions to your web pages. jQuery is designed to change the way that you write JavaScript.
+
+JavaScript Library
+jQuery Cookie
+jQuery Cookie
+jQuery Cookie Usage Statistics · Download List of All Websites using jQuery Cookie
+A simple, lightweight jQuery plugin for reading, writing and deleting cookies.
+
+jQuery Plugin
+jQuery 1.8.3
+jQuery 1.8.3
+jQuery 1.8.3 Usage Statistics · Download List of All Websites using jQuery 1.8.3
+jQuery version 1.8.3
+
+jQuery Once
+jQuery Once
+jQuery Once Usage Statistics · Download List of All Websites using jQuery Once
+Filters out all elements that had the same filter applied on them before.
+
+jQuery Plugin
+jQuery 2.2.4
+jQuery 2.2.4
+jQuery 2.2.4 Usage Statistics · Download List of All Websites using jQuery 2.2.4
+jQuery version 2.2.4
+
+jQuery Form
+jQuery Form
+jQuery Form Usage Statistics · Download List of All Websites using jQuery Form
+jQuery Form Plugin allows you to easily and unobtrusively upgrade HTML forms to use AJAX.
+
+jQuery Plugin
+jQuery Marquee
+jQuery Marquee
+jQuery Marquee Usage Statistics · Download List of All Websites using jQuery Marquee
+Adds an annoying Marquee feature to text like it was 1995 again.
+
+jQuery Plugin
+FlexSlider
+FlexSlider
+FlexSlider Usage Statistics · Download List of All Websites using FlexSlider
+jQuery Slider toolkit from Woothemes.
+
+jQuery Plugin Slider
+Verified Link
+Global Trends
+Facebook
+Facebook
+Facebook Usage Statistics · Download List of All Websites using Facebook
+The website mentions facebook.com in some form.
+
+Twitter
+Twitter
+Twitter Usage Statistics · Download List of All Websites using Twitter
+The website mentions twitter.com in some form.
+
+YouTube Link
+YouTube Link
+YouTube Link Usage Statistics · Download List of All Websites using YouTube Link
+This website mentions YouTube.com on it in some form or another.
+
+Syndication Techniques
+Global Trends
+RSS
+RSS
+RSS Usage Statistics · Download List of All Websites using RSS
+A family of web feed formats used to publish frequently updated content such as blog entries, news headlines or podcasts.
+
+Document Encoding
+Global Trends
+UTF-8
+UTF-8
+UTF-8 Usage Statistics · Download List of All Websites using UTF-8
+UTF-8 (8-bit UCS/Unicode Transformation Format) is a variable-length character encoding for Unicode. It is the preferred encoding for web pages.
+
+Document Standards
+Global Trends
+Handheld Friendly
+Handheld Friendly
+Handheld Friendly Usage Statistics · Download List of All Websites using Handheld Friendly
+Tells mobile browsers that the content is already framed for mobile browsing.
+
+Meta Keywords
+Meta Keywords
+Meta Keywords Usage Statistics · Download List of All Websites using Meta Keywords
+Meta tag containing keywords related to the page.
+
+Javascript
+Javascript
+Javascript Usage Statistics · Download List of All Websites using Javascript
+JavaScript is a scripting language most often used for client-side web development.
+
+Cascading Style Sheets
+Cascading Style Sheets
+Cascading Style Sheets Usage Statistics · Download List of All Websites using Cascading Style Sheets
+Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in a markup language. Its most common application is to style web pages written in HTML
+
+Marquee
+Marquee
+Marquee Usage Statistics · Download List of All Websites using Marquee
+The marquee element was first invented for Microsoft's Internet Explorer and is still supported by it. Other web browsers support it for compatibility with legacy pages. The element is non-compliant HTML
+
+Canonical Content Tag
+Canonical Content Tag
+Canonical Content Tag Usage Statistics · Download List of All Websites using Canonical Content Tag
+Public specification of a preferred URL for a page allows search engines to understand the original location for content.
+
+Conditional Comments
+Conditional Comments
+Conditional Comments Usage Statistics · Download List of All Websites using Conditional Comments
+[url] uses conditional comments that are supported by Microsoft Internet Explorer. They allow web developers to show or hide HTML code based on the version of the viewer's browser.
+
+HTML 5 Specific Tags
+HTML 5 Specific Tags
+HTML 5 Specific Tags Usage Statistics · Download List of All Websites using HTML 5 Specific Tags
+This page contains tags that are specific to an HTML 5 implementation.
+
+WAI-ARIA
+WAI-ARIA
+WAI-ARIA Usage Statistics · Download List of All Websites using WAI-ARIA
+A way to make Web content and Web applications more accessible to people with disabilities. It especially helps with dynamic content and advanced user interface controls developed with Ajax, HTML, JavaScript, and related technologies.
+
+IFrame
+IFrame
+IFrame Usage Statistics · Download List of All Websites using IFrame
+The page shows content with an iframe; an embedded frame that loads another webpage.
+
+SEO Title Tag
+Global Trends
+SEO_TITLE
+SEO_TITLE
+SEO_TITLE Usage Statistics · Download List of All Websites using SEO_TITLE
+SEO Title
+
+SEO Meta Tag
+Global Trends
+SEO_META_KEYWORDS
+SEO_META_KEYWORDS
+SEO_META_KEYWORDS Usage Statistics · Download List of All Websites using SEO_META_KEYWORDS
+SEO Meta Keywords
+
+SEO Header Tag
+Global Trends
+SEO_H2
+SEO_H2
+SEO_H2 Usage Statistics · Download List of All Websites using SEO_H2
+SEO H2

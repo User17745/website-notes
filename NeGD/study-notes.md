@@ -35,7 +35,38 @@ The new Technical PM should be aware of the internal divisions that handle vario
 *   **Security:** Adherence to STQC (Standardisation Testing and Quality Certification) and CERT-In guidelines is mandatory for all projects.
 *   **UI/UX:** The **UX4G** initiative aims to standardize and improve the user experience across all government portals.
 
-## 5. Reference Links
+## 5. Technical Stack & Infrastructure
+For the incoming Technical PM, understanding the underlying technology is crucial for maintenance and scaling:
+
+*   **Content Management System (CMS):** WordPress (Core platform for content delivery).
+*   **Infrastructure & Hosting:**
+    *   **Cloud Provider:** Amazon Web Services (AWS) - EC2 instances.
+    *   **Traffic Management:** Amazon Application Load Balancer (ALB) with Sticky Session support.
+    *   **CDNs:** Amazon S3 CDN and Cloudflare for optimized global delivery.
+*   **Front-end Development:**
+    *   **Framework:** Foundation (Responsive front-end framework).
+    *   **Libraries:** jQuery (3.7.1), jQuery UI, Slick JS (Carousels), and Popper.js.
+*   **Security & Accessibility:**
+    *   **Encryption:** SSL by Default with HSTS (Strict Transport Security).
+    *   **Email Security:** DMARC (Reject policy for high security) and SPF.
+    *   **Authentication:** Integration with Google Identity Platform for secure sign-ins.
+*   **Analytics & SEO:**
+    *   **SEO:** Yoast SEO Premium.
+    *   **Insights:** Google Webmaster Tools and CrUX (Chrome User Experience) dataset.
+    *   **Data Visualization:** Microsoft Power BI integration for rich visuals.
+
+## 6. Traffic & Engagement Analysis
+Based on recent traffic audits (Dec 2025):
+
+*   **Reach:** ~114,826 monthly visits, with total visits exceeding 341K in the audit period.
+*   **Engagement:**
+    *   **Avg Visit Duration:** 03:21 minutes.
+    *   **Pages per Visit:** 2.83.
+    *   **Bounce Rate:** ~41.12%.
+*   **Demographics:** Primarily Indian audience (>95%), with secondary traffic from the US, Singapore, and UK.
+*   **Top Channels:** High "Direct" and "Organic Search" traffic, indicating strong brand recall and SEO performance.
+
+## 7. Reference Links
 *   **Official Website:** [https://negd.gov.in/](https://negd.gov.in/)
 *   **DigiLocker:** [https://www.digilocker.gov.in/](https://www.digilocker.gov.in/)
 *   **UMANG:** [https://web.umang.gov.in/](https://web.umang.gov.in/)

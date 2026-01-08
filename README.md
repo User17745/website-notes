@@ -4,12 +4,12 @@ Welcome to the **Project Introduction Notes** repository. This project contains 
 
 ## 📋 Project Directory
 
-This repository is organized by department/organization. Each directory contains a `notes.md` file with deep-dive technical insights, project portfolios, and digital ecosystem overviews.
+This repository is organized by department/organization. Each directory contains a `study-notes.md` file with deep-dive technical insights, project portfolios, and digital ecosystem overviews.
 
 | Project / Organization | URL | Repository Path | Core Focus |
 | :--- | :--- | :--- | :--- |
-| **National e-Governance Division (NeGD)** | https://negd.gov.in/ | [`NeGD/notes.md`](./NeGD/notes.md) | Digital India, DigiLocker, UMANG, API Setu |
-| **Department of Sports** | https://yas.gov.in/en | [`Department of Sports/notes.md`](./Department%20of%20Sports/notes.md) | Khelo India, Fit India, DBT-YAS, Sports Infrastructure |
+| **National e-Governance Division (NeGD)** | https://negd.gov.in/ | [`NeGD/study-notes.md`](./NeGD/study-notes.md) | Digital India, DigiLocker, UMANG, API Setu |
+| **Department of Sports** | https://yas.gov.in/en | [`Department of Sports/study-notes.md`](./Department%20of%20Sports/study-notes.md) | Khelo India, Fit India, DBT-YAS, Sports Infrastructure |
 
 ---
 
@@ -18,16 +18,16 @@ This repository is organized by department/organization. Each directory contains
 The primary goal of these notes is to provide a "Technical PM's First Look" at the project landscapes, covering:
 - **Mandate & Mission:** Understanding the organizational goals.
 - **Key Projects:** High-level summary of active digital public infrastructure (DPI) or schemes.
-- **IT Ecosystem:** Insights into Direct Benefit Transfer (DBT), mobile gateways, and data platforms.
-- **Technical Focus Areas:** Critical domains like interoperability, scalability, and security standards.
+- **IT Ecosystem & Traffic:** Insights into Direct Benefit Transfer (DBT), engagement metrics, and technical reach.
+- **Technical Focus Areas:** Critical domains like interoperability, scalability, and security standards (DMARC, HSTS).
 
-## 🛠 Tech Stack Overview (Common across projects)
+## 🛠 Tech Stack Snapshot
 
-Most projects under these departments leverage common Indian Digital Public Infrastructure components:
-- **Foundational layers:** Aadhaar (UIDAI), DigiLocker, UPI.
-- **Middleware:** API Setu for interoperability.
-- **Cloud Infrastructure:** GI Cloud (MeghRaj), NIC Data Centres.
-- **Service Delivery:** UMANG Mobile App, various NIC/MeitY dashboards.
+While each project has unique requirements, common technologies observed across these portfolios include:
+- **CMS Frameworks:** WordPress (NeGD) and Drupal (Sports).
+- **Hosting & Infrastructure:** Amazon AWS (EC2, S3, ALB) and Cloudflare.
+- **Analytics & SEO:** Matomo (Open-source), Google Webmaster Tools, and Yoast SEO.
+- **DPI Integration:** DigiLocker, API Setu, and Aadhaar-based Direct Benefit Transfer (DBT).
 
 ---
 

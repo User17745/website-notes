@@ -35,7 +35,33 @@ For a Technical PM, the following digital platforms are critical to the departme
 *   **User Experience:** Improving the accessibility of portals for athletes, many of whom may access these from remote areas with limited connectivity.
 *   **Stakeholder Integration:** Coordinating between the Ministry, Sports Authority of India (SAI), and external sports federations via digital interfaces.
 
-## 5. Reference Links
+## 5. Technical Stack & Digital Infrastructure
+Research indicates a focus on open-source and modular systems to manage the diverse sporting ecosystem:
+
+*   **Content Management System (CMS):** Drupal (Leveraged for its modularity and complex content relationship management).
+*   **Analytics & Tracking:**
+    *   **Platform:** Matomo (Open-source web analytics for privacy-focused data ownership).
+*   **Front-end Libraries:**
+    *   **JS Support:** jQuery (v1.8.3, v2.2.4) with legacy support for `Marquee` and `Conditional Comments`.
+    *   **UI Components:** bxSlider, FlexSlider, and Lightbox for media handling.
+*   **Media & Accessibility:**
+    *   **Accessibility Standards:** WAI-ARIA compliance for inclusive access.
+    *   **Native Embeds:** Heavy integration with YouTube for sports content dissemination.
+*   **Mobile-First Approach:** Implemented via Microsoft's `MobileOptimized` and `HandheldFriendly` standards to ensure accessibility in low-infrastructure environments.
+*   **Search Engine Optimization (SEO):** Structured use of H2 headers and meta keywords to maintain discoverability for schemes like Khelo India.
+
+## 6. Traffic & Engagement Analysis
+The department's digital presence shows high-quality engagement, even if lower in volume compared to aggregate platforms:
+
+*   **Reach:** ~23,800 monthly visits, totaling ~50,5K during the peak holiday season (Dec 2025).
+*   **Engagement Metrics (High Quality):**
+    *   **Avg Visit Duration:** 06:03 minutes (Significantly higher than standard govt portals, indicating deep content consumption).
+    *   **Pages per Visit:** 3.08.
+    *   **Bounce Rate:** 33.61% (Exceptionally low, showing highly targeted traffic).
+*   **Sources & Referrals:** Strong referral traffic from within the sports ecosystem (SAI, Federations).
+*   **Geographic Focus:** Concentrated in India, but with notable "Sports Diaspora" interest from the US and UK.
+
+## 7. Reference Links
 *   **Department Official Website:** [https://yas.gov.in/en](https://yas.gov.in/en)
 *   **DBT-YAS Portal:** [https://dbtyas-sports.gov.in](https://dbtyas-sports.gov.in)
 *   **Khelo India:** [https://kheloindia.gov.in/](https://kheloindia.gov.in/)
