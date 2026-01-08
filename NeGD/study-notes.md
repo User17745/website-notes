@@ -22,52 +22,54 @@ NeGD manages some of the largest digital public infrastructure (DPI) projects in
 | **OpenForge** | Collaborative development platform for e-Gov software. | Promotes open-source and code sharing across government departments. |
 
 ## 3. Technical & Operational Divisions
-The new Technical PM should be aware of the internal divisions that handle various stages of project lifecycles:
 
-*   **Technology Management:** Focuses on technology selection, ICT strategy, security policies, and architectural appraisal.
-*   **Infrastructure (Mobile & Cloud):** Manages the deployment environments (GI Cloud / MeghRaj) and mobile service delivery gateways.
-*   **Standards & Appraisals:** Ensures projects adhere to national e-governance standards, interoperability frameworks, and security audits.
-*   **Capacity Building:** Focuses on training and skill development for government officials to handle digital transitions.
+| Division | Focus & Responsibility |
+| :--- | :--- |
+| **Technology Management** | Technology selection, ICT strategy, security policies, and architectural appraisal. |
+| **Infrastructure (Mobile & Cloud)** | Deployment environments (GI Cloud / MeghRaj) and mobile service delivery gateways. |
+| **Standards & Appraisals** | Adherence to national e-governance standards, interoperability frameworks, and security audits. |
+| **Capacity Building** | Training and skill development for government officials for digital transitions. |
 
 ## 4. Key Considerations for the Technical PM
-*   **Interoperability:** Most NeGD projects are designed to be "interoperable" via API Setu.
-*   **Scalability:** Systems like UMANG and DigiLocker handle millions of usersDaily; performance engineering is critical.
-*   **Security:** Adherence to STQC (Standardisation Testing and Quality Certification) and CERT-In guidelines is mandatory for all projects.
-*   **UI/UX:** The **UX4G** initiative aims to standardize and improve the user experience across all government portals.
+
+| Consideration | Details |
+| :--- | :--- |
+| **Interoperability** | Most NeGD projects are designed to be "interoperable" via API Setu. |
+| **Scalability** | Systems like UMANG and DigiLocker handle millions of users daily; performance engineering is critical. |
+| **Security** | Adherence to STQC and CERT-In guidelines is mandatory for all projects. |
+| **UI/UX** | The UX4G initiative aims to standardize and improve user experience across all government portals. |
 
 ## 5. Technical Stack & Infrastructure
-For the incoming Technical PM, understanding the underlying technology is crucial for maintenance and scaling:
 
-*   **Content Management System (CMS):** WordPress (Core platform for content delivery).
-*   **Infrastructure & Hosting:**
-    *   **Cloud Provider:** Amazon Web Services (AWS) - EC2 instances.
-    *   **Traffic Management:** Amazon Application Load Balancer (ALB) with Sticky Session support.
-    *   **CDNs:** Amazon S3 CDN and Cloudflare for optimized global delivery.
-*   **Front-end Development:**
-    *   **Framework:** Foundation (Responsive front-end framework).
-    *   **Libraries:** jQuery (3.7.1), jQuery UI, Slick JS (Carousels), and Popper.js.
-*   **Security & Accessibility:**
-    *   **Encryption:** SSL by Default with HSTS (Strict Transport Security).
-    *   **Email Security:** DMARC (Reject policy for high security) and SPF.
-    *   **Authentication:** Integration with Google Identity Platform for secure sign-ins.
-*   **Analytics & SEO:**
-    *   **SEO:** Yoast SEO Premium.
-    *   **Insights:** Google Webmaster Tools and CrUX (Chrome User Experience) dataset.
-    *   **Data Visualization:** Microsoft Power BI integration for rich visuals.
+| Category | Component | Details |
+| :--- | :--- | :--- |
+| **CMS** | WordPress | Core platform for content delivery. |
+| **Cloud Provider** | AWS | EC2 instances for hosting. |
+| **Traffic Mgmt** | Amazon ALB | Application Load Balancer with Sticky Session support. |
+| **Storage & CDN** | Amazon S3 & Cloudflare | Optimized global delivery and storage. |
+| **Front-end** | Foundation Framework | Responsive front-end toolkit. |
+| **JS Libraries** | jQuery (3.7.1), Slick JS, Popper.js | Interaction, animation, and UI widgets. |
+| **Security** | SSL/HSTS, DMARC, SPF | Encrypted communication and email security (Reject policy). |
+| **Authentication** | Google Identity Platform | Secure sign-in integrations. |
+| **Analytics/SEO** | Yoast SEO, Google Webmaster | SEO optimization and performance insights. |
+| **Insights** | Power BI, CrUX | Data visualization and real user experience data. |
 
 ## 6. Traffic & Engagement Analysis
-Based on recent traffic audits (Dec 2025):
 
-*   **Reach:** ~114,826 monthly visits, with total visits exceeding 341K in the audit period.
-*   **Engagement:**
-    *   **Avg Visit Duration:** 03:21 minutes.
-    *   **Pages per Visit:** 2.83.
-    *   **Bounce Rate:** ~41.12%.
-*   **Demographics:** Primarily Indian audience (>95%), with secondary traffic from the US, Singapore, and UK.
-*   **Top Channels:** High "Direct" and "Organic Search" traffic, indicating strong brand recall and SEO performance.
+| Metric | Value / Detail |
+| :--- | :--- |
+| **Monthly Reach** | ~114,826 visits (Audit period total: >341K). |
+| **Avg. Visit Duration** | 03:21 minutes. |
+| **Pages per Visit** | 2.83. |
+| **Bounce Rate** | ~41.12%. |
+| **Demographics** | Primarily India (>95%), followed by US, Singapore, and UK. |
+| **Top Channels** | Direct and Organic Search (Strong brand recall and SEO). |
 
 ## 7. Reference Links
-*   **Official Website:** [https://negd.gov.in/](https://negd.gov.in/)
-*   **DigiLocker:** [https://www.digilocker.gov.in/](https://www.digilocker.gov.in/)
-*   **UMANG:** [https://web.umang.gov.in/](https://web.umang.gov.in/)
-*   **API Setu:** [https://apisetu.gov.in/](https://apisetu.gov.in/)
+
+| Resource | URL |
+| :--- | :--- |
+| **Official Website** | [https://negd.gov.in/](https://negd.gov.in/) |
+| **DigiLocker** | [https://www.digilocker.gov.in/](https://www.digilocker.gov.in/) |
+| **UMANG** | [https://web.umang.gov.in/](https://web.umang.gov.in/) |
+| **API Setu** | [https://apisetu.gov.in/](https://apisetu.gov.in/) |
