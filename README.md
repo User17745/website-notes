@@ -8,8 +8,8 @@ This repository is organized by department/organization. Each directory contains
 
 | Project / Organization | URL | Read Notes ⭐️ | Core Focus |
 | :--- | :--- | :--- | :--- |
-| **National e-Governance Division (NeGD)** | https://negd.gov.in/ | [![Click to See Notes](https://img.shields.io/badge/Open_Notes-blue?style=for-the-badge)](./NeGD/study-notes.md) | Digital India, DigiLocker, UMANG, API Setu |
-| **Department of Sports** | https://yas.gov.in/en | [![Click to See Notes](https://img.shields.io/badge/Open_Notes-blue?style=for-the-badge)](./Department%20of%20Sports/study-notes.md) | Khelo India, Fit India, DBT-YAS, Sports Infrastructure |
+| **National e-Governance Division (NeGD)** | https://negd.gov.in/ | [![Click to See Notes](https://img.shields.io/badge/Open_Notes-blue?style=for-the-badge)](./NeGD/study-notes.html) | Digital India, DigiLocker, UMANG, API Setu |
+| **Department of Sports** | https://yas.gov.in/en | [![Click to See Notes](https://img.shields.io/badge/Open_Notes-blue?style=for-the-badge)](./Department%20of%20Sports/study-notes.html) | Khelo India, Fit India, DBT-YAS, Sports Infrastructure |
 
 ---
 
