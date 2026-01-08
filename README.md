@@ -13,6 +13,18 @@ This repository is organized by department/organization. Each directory contains
 
 ---
 
+## 📂 Researched Material
+
+Raw data and technical breakdown exports used to compile the study notes are stored in the [`Researched Material/`](./Researched%20Material/) directory:
+
+- **Technical Breakdowns:**
+    - [`NeGD-tech-stack-breakdown.txt`](./Researched%20Material/NeGD-tech-stack-breakdown.txt)
+    - [`DoS-tech-stack-breakdown.txt`](./Researched%20Material/DoS-tech-stack-breakdown.txt)
+- **Analytics:**
+    - [`similarweb-web-traffic-analysis-comparison.jpg`](./Researched%20Material/similarweb-web-traffic-analysis-comparison.jpg) (Comparative engagement data for Dec 2025).
+
+---
+
 ## 🚀 Purpose & Scope
 
 The primary goal of these notes is to provide a "Technical PM's First Look" at the project landscapes, covering:
